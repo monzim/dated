@@ -3,9 +3,6 @@ version: 1.0.0
 description: A library provides useful extensions for working with DateTime objects.
 repository: https://github.com/monzim/dated
 topics:
-  - dart
-  - flutter
-  - dated
   - datetime
   - date
   - time
