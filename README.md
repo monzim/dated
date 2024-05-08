@@ -10,10 +10,6 @@ Add the `dated` package to your `pubspec.yaml` file:
 dart pub add dated
 ```
 
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
 ## Usage
 
 Import the `dated` package in your Dart file:
